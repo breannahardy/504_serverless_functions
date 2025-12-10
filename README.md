@@ -39,6 +39,7 @@ Testing:
 
 Endpoint:
 <https://creatinine-classifier-hta5e2ebdkbbbga8.eastus-01.azurewebsites.net/api/creatinine_class>
+
 Testing:
 <img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/b76da27c-585d-45eb-8268-93b1c3401397" />
 
